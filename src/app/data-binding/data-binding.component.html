@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <article class="user">
+                <img class="user__avatar" [src]="avatar">
+                <h1 class="user__name">Oi, eu sou a {{name}}!</h1>
+                <input class="user__input" type="text" placeholder="Choose a name..." [(ngModel)]="newName">
+                <button class="user__button" (click)="makeMeHero()">Make me badass!</button>
+            </article>
+        </div>
+    </div>
+</div>
