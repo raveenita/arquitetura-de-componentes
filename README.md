@@ -8,8 +8,8 @@ Obrigada pela participação e bons estudos!
 
 Qualquer coisa só dar um salve!
 
-Redes sociais:
+## Redes sociais:
 
-Instagram: https://www.instagram.com/ravenita_/
-Linkedin: https://www.linkedin.com/in/geovanasribeiro/
-Spotify (pra quem quiser ouvir umas playlists maneiras): https://open.spotify.com/user/22tk6jgofco56wm3rk3ctx6lq?si=7oQp1VrcRRiVQ8nDaPGBWg 
+- **Instagram**: https://www.instagram.com/ravenita_/
+- **Linkedin**: https://www.linkedin.com/in/geovanasribeiro/
+- **Spotify** (pra quem quiser ouvir umas playlists maneiras): https://open.spotify.com/user/22tk6jgofco56wm3rk3ctx6lq?si=7oQp1VrcRRiVQ8nDaPGBWg 
