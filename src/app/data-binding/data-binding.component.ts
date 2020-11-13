@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class DataBindingComponent implements OnInit {
   name: string = 'Geovana';
   newName: string;
-  avatar: string = '';
+  avatar: string = 'assets/images/geovana.jpg';
 
   constructor() { }
 
@@ -17,6 +17,6 @@ export class DataBindingComponent implements OnInit {
   
   makeMeHero(){
     this.name = this.newName;
-    this.avatar = ''
+    this.avatar = 'assets/images/ravena.jpg';
   }
 }
