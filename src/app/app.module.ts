@@ -6,7 +6,6 @@ import { CommonModule } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DataBindingComponent } from './data-binding/data-binding.component';
-import { NewComponentComponent } from './new-component/new-component.component';
 
 @NgModule({
   imports: [
@@ -18,8 +17,7 @@ import { NewComponentComponent } from './new-component/new-component.component';
   ],
   declarations: [
     AppComponent,
-    DataBindingComponent,
-    NewComponentComponent
+    DataBindingComponent
   ],
   bootstrap: [ AppComponent ]
 })

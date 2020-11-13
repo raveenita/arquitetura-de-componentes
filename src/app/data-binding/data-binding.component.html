@@ -5,20 +5,10 @@
                 <img class="user__avatar" [src]="avatar">
                 <h1 class="user__name mt-3 mb-3">Oi, eu sou a {{name}}!</h1>
                 <form class="form-inline">
-                    <input class="user__input input-group" type="text" placeholder="Choose a name..." [(ngModel)]="newName">
-                    <button class="user__button btn btn-primary" (click)="makeMeHero()">Make me badass!</button>
+                    <input class="form__input input-group" type="text" placeholder="Choose a name..." name="newName" [(ngModel)]="newName">
+                    <button class="form__button btn btn-primary" (click)="makeMeHero()">Make me badass!</button>
                 </form>
             </article>
-
-            <form action="" class="form">
-                <input class="form__input" type="text">
-                <button class="form__button"></button>
-            </form>
-
-            <div class="block block--form">
-                <h1 class="block__title"></h1>
-                <button class="btn btn--primary"></button>
-            </div>
         </div>
     </div>
 </div>
